@@ -31,8 +31,6 @@ Target Password → SHA-256 Hash → Attack Simulation → Result
 ## 🚀 How to Run
 
 ```bash
-# Clone repo
-git clone https://github.com/am-cybersec/Password-Strength-Analyzer
 
 # Run
 python password_analyzer.py
